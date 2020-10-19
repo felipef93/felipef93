@@ -29,7 +29,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Uppsala_University_logo.svg/1200px-Uppsala_University_logo.svg.png" width="60" height="60"/ />
 
 
-## What to expect from this account
+## My skills
 <p align="left">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" alt="R" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Google Earth Engine" width="40" height="40"/>
@@ -40,6 +40,5 @@
 
 <p align="center">
    <img src="https://cdn.icon-icons.com/icons2/1448/PNG/512/42480buildingconstruction_99093.png" width="80" height="80"/>
- 
- 
- Under construction
+<p align="center">
+  **Under construction**
