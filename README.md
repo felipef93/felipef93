@@ -2,6 +2,8 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=felipef93" />
 
+<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="Google Earth Engine" width="40" height="40"/>
+
 <!--
 **felipef93/felipef93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
