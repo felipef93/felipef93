@@ -10,15 +10,17 @@
 - The meaning of life
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipef93&show_icons=true&hide=issues" />
-
-<p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2482/PNG/512/sun_weather_icon_149828.png" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2482/PNG/512/sunny_rain_weather_icon_149824.png" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2482/PNG/512/storm_weather_icon_149833.png" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2482/PNG/512/windy_weather_icon_149832.png" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2482/PNG/512/snowy_weather_icon_149829.png" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2482/PNG/512/cloudy_weather_icon_149830.png" width="40" height="40"/>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipef93&show_icons=true&hide=issues" />
+
+
 
 
 
