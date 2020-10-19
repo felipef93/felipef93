@@ -17,7 +17,7 @@
   <img src="https://icon-icons.com/icon/snowy-weather/149829" width="40" height="40"/>
   <img src="https://icon-icons.com/icon/cloudy-weather/149830" width="40" height="40"/>
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png" width="40" height="40"/>
+<img src="https://github-readme-stats.vercel.app/api?username=felipef93&show_icons=true&hide=issues" />
 
 ## Study
 <p align="left">
