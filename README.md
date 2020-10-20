@@ -26,7 +26,7 @@
 
 ## Study
 <p align="left">
-  <img src="https://lh3.googleusercontent.com/proxy/qVl3TXFe91FUocD_VK1rZQBID2mAt1MnY9_FE3gO6n0Rq_UWSBep3O_BRQNiUltA6TAEsfTjcTGh7AVWaUMy" width="60" height="60"/ />
+  <img src="https://lh3.googleusercontent.com/proxy/TnqPlf05Mt-ad8RXFXk-cl6P5ObqT3TKfQEQJDtCVta1Ed6pTCQMzOdFYg-XGN2kGxkWpkqg3wBzIlH0bq3z" width="60" height="60"/ />
   <img src=https://riverridge.co.uk/app/uploads/2017/04/logo-queens-university-belfast.jpg width="90" height="60"/ />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Uppsala_University_logo.svg/1200px-Uppsala_University_logo.svg.png" width="60" height="60"/ />
 
